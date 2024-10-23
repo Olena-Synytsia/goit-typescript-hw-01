@@ -1,4 +1,4 @@
 // let person = ["Max", 21];
 
-type Person = [string, number];
-const isPerson: Person = ["Max", 21];
+let tupleTypePerson: [string, number];
+tupleTypePerson = ["Max", 21];
