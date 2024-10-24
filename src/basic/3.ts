@@ -1,4 +1,5 @@
-let unionType: string | number;
+type union = string | number;
+let unionType: union;
 unionType = "Type";
 unionType = 200;
 
