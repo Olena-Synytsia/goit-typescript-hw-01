@@ -1,4 +1,2 @@
-// let person = ["Max", 21];
-
-let tupleTypePerson: [string, number];
-tupleTypePerson = ["Max", 21];
+let Person: [string, number];
+Person = ["Max", 21];
